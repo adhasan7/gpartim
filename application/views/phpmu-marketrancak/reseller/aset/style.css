@@ -1,0 +1,14 @@
+@import url(font-awesome.min.css);
+
+.radio_item{
+display: none !important;
+}
+
+.label_item {
+padding:1em;
+text-align:center;
+}
+
+.radio_item:checked + label {
+border:solid 3px #008800;
+}

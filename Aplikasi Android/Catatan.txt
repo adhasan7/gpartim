@@ -1,0 +1,9 @@
+Silahkan URL : https://rumahdigitalmjl.my.id pada baris 31 di : 
+ipbmarket\com\app\MainActivity.java
+gantikan dengan domain marketplace nya masing-masing,..
+
+untuk mengganti nama Aplikasi bisa ubah dari : 
+src\main\res\values\strings.xml
+
+
+Note : Jalankan di Android Studio Terbaru

@@ -1,0 +1,102 @@
+@media (max-width:768px)
+{
+	.containerisi
+	{
+		width:100vw;
+	}
+	.containerform
+	{
+		width:100vw;
+	}
+	.slide-img
+	{
+		position: relative;
+		z-index: 1;
+		width:100vw;
+		height:calc(70vw*50/100);
+		border-radius: .5rem;
+		object-fit:cover;
+	}
+	
+	.voucher-img
+	{
+		position: relative;
+		z-index: 1;
+		width:auto;
+		height:calc(100vh*10/100);
+	}
+	
+	.produk
+	{
+		min-width:140px;
+	}
+	
+	.produk .produk-image img
+	{
+		width: 100%;
+		height:calc(95vw*50/100);
+		object-fit: cover;
+	}
+	.produk .produk-img img
+	{
+		width: 100%;
+		height:calc(95vw*50/100);
+		object-fit: cover;
+	}
+	
+	.pick_today
+	{
+		padding:0;
+		margin:0;
+		width:100%;
+	}
+	
+	.containerproduk
+	{
+		width:100vw;
+	}
+	.produksatuan .gambar
+	{
+		margin:0;
+		padding:0;
+		position: relative;
+		width:100vw;
+		height:100vw;
+		object-fit:cover;
+	}
+	
+	.produksatuan .produksatuan-slider
+	{
+		margin:0;
+		padding:0;
+		width:100vw;
+		height:100vw;
+	}
+	
+	.produkfs .produkfs-judul
+	{
+		font-size:9pt;
+	}
+	.produkfs .produkfs-harga
+	{
+		font-size:9pt;
+	}
+	
+	.modalshare
+	{
+		width:100vw;
+	}
+	.modalshare .modal-content
+	{
+		width:100vw;
+	}
+	
+	.modalproduk
+	{
+		width:100vw;
+	}
+	.modalproduk .modal-content
+	{
+		width:100vw;
+	}
+}
